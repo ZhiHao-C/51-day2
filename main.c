@@ -1,5 +1,5 @@
 #include <REGX52.H>
-void delay_ms(int n)//ÑÓÊ±º¯Êý
+void delay_ms(int n)//å»¶æ—¶å‡½æ•°
 {
 	int i;
 	while (n--)
