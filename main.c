@@ -31,7 +31,7 @@ void main()
 	while(1)
 	{
 		display(1,1);
-		delay_ms(10);
+		delay_ms(10);//消影
 		P0=0;
 		delay_ms(2);
 		display(2,2);
